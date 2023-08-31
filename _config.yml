@@ -1,0 +1,17 @@
+# Site settings
+logo: "./imgs/headshot.jpg"
+title: Sopuruchi Chisom - Data Professional
+description: Showcasing my data skills, experience, and projects
+
+theme: jekyll-theme-minimal
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Navigation
+navbar_links:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
