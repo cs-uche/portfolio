@@ -1,7 +1,7 @@
 # Site settings
-logo: "./imgs/headshot.jpg"
-title: Sopuruchi Chisom - Data Professional
-description: Showcasing my data skills, experience, and projects
+logo: "./assets/images/headshot.jpg"
+title: Sopuruchi Chisom
+description: Unleashing Insights from Data 🌐 | Insight Whisperer 🌟 
 
 theme: jekyll-theme-minimal
 
